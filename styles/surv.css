@@ -42,7 +42,7 @@ table, th, td
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    top: 2100px;
+    top: 3100px;
 }
 
 
@@ -188,7 +188,7 @@ a, u
 #im
 {
     position: absolute;
-    top: 2050px;
+    top: 3050px;
 }
 
 #table
