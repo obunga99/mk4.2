@@ -10,7 +10,7 @@
     width: 500px;
     left: -10%;
    font-family: Georgia, 'Times New Roman', Times, serif;
-top: 3700px;
+top: 3200px;
 }
 
 
@@ -175,7 +175,7 @@ a, u
 {
     position: absolute;
     left: 45%;
-    top: 3200px;
+    top: 3100px;
 }
 
 
@@ -192,5 +192,5 @@ a, u
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    top: 3350px;
+    top: 3200px;
 }
