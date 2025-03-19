@@ -1,0 +1,22 @@
+.button1{
+    
+  background-color: #a42aff;
+  position: absolute;
+  text-align: center;
+  border: none;
+  color: white;
+  padding: 50px;
+  width: 120px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  left: 80%;
+  top:50%;
+}
+
+#butt
+{
+    background-color: #626262;
+    top: 90%;
+}

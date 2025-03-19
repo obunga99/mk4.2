@@ -1,0 +1,16 @@
+.button1{
+    
+  background-color: #6082B6;
+  position: absolute;
+  text-align: center;
+  border: none;
+  color: white;
+  padding: 50px;
+  width: 120px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  left: 60%;
+  top:50%;
+}
